@@ -1,4 +1,4 @@
-# AJIMEE-Bench (A Japanese Input Method Evaluation and Examination Benchmark)
+# AJIMEE-Bench (Advanced Japanese IME Evaluation Benchmark)
 
 このレポジトリはAJIMEE-Bench(味見ベンチ)の評価データを配置しています。
 
